@@ -169,8 +169,8 @@ This project is licensed under the **MIT License** — you're free to use, modif
 **Akhilesh Kancharla**  
 *CSE @ MGIT '28 | Python/C Dev | Data + Sports Analytics Enthusiast | Project-Driven Learner*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh_Kancharla-blue?logo=linkedin)](https://www.linkedin.com/in/akhilesh-kancharla/)  
-[![GitHub](https://img.shields.io/badge/GitHub-akhi5hesh-black?logo=github)](https://github.com/Akhilesh-Kancharla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh_Kancharla-blue?logo=linkedin)](www.linkedin.com/in/akhilesh-kancharla-63b5b6327)  
+[![GitHub](https://img.shields.io/badge/GitHub-AkhileshKancharla-black?logo=github)](https://github.com/Akhilesh-Kancharla)
 
 ---
 
