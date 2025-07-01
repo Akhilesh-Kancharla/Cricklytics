@@ -79,7 +79,7 @@ cricklytics/
 │   │   └── clutch_analyzer.py
 │   └── utils.py               # Common helper functions
 │
-├── gui/                       # Tkinter interface (WIP)
+├── gui/                       # Flask based Web App
 │   └── main.py
 │
 ├── outputs/                   # Exported reports and graphs
