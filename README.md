@@ -59,7 +59,7 @@ Cricklytics is a powerful data analytics engine that processes, analyzes, and vi
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure(Expected)
 
 ```
 cricklytics/
