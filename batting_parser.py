@@ -3,7 +3,7 @@ import yaml
 import os
 
 # Specify the target directory (replace with the full path of your directory)
-target_directory = '/Your/file/path/to/yaml/files'    #use https://cricsheet.org/downloads/ link to get the yaml files used for this project
+target_directory = 'cricklytics/data/yaml/'    
 
 #reads the files safely
 def read(address):
